@@ -8,9 +8,9 @@ $isStudent = "Yes";
 
 echo "My name is $Name<br>";
 echo "My age is $Age<br>";
-echo "My name was at $School<br>";
-echo "My name is $Course<br>";
-echo "My name is $Subject<br>";
+echo "My school was at $School<br>";
+echo "My course is $Course<br>";
+echo "My subject is $Subject<br>";
 echo "Are you a student? $isStudent<br>";
 
 
