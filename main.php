@@ -6,12 +6,12 @@ $Course = "BSIT";
 $Subject = "WebSys";
 $isStudent = "Yes";
 
-echo "My name is $Name<br>";
-echo "My age is $Age<br>";
-echo "My school was at $School<br>";
-echo "My course is $Course<br>";
-echo "My subject is $Subject<br>";
-echo "Are you a student? $isStudent<br>";
+echo "Name: $Name<br>";
+echo "Age: $Age<br>";
+echo "School: $School<br>";
+echo "Course $Course<br>";
+echo "Subject: $Subject<br>";
+echo "Student?: $isStudent<br>";
 
 
 
